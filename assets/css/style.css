@@ -12,7 +12,7 @@ body{
 header { 
     display: flex;
     justify-content: space-between;
-    background-image: url(../images/portada.jpg);
+    background-color: #B9F18C;
     background-size: cover;
     background-repeat: no-repeat;
 }
