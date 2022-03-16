@@ -22,6 +22,10 @@ h1{
     padding-left: 30px;
     box-sizing: content-box;
 }
+h1:hover {
+    font-size: large;
+    color: #033F63;
+}
 #container1 {  display: grid;
     margin: 1rem;
     grid-template-columns: minmax(100px,600px);
